@@ -28,6 +28,8 @@
 - [Wygenerowane dane](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab06/data).
 - [Wygenerowane wykresy](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab06/plots/charts).
 
-## [Przepływy cieczy lepkiej - równania Naviera-Stokesa](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab07)
+## Równania Naviera-Stokesa
+
+### [Przepływ cieczy lepkiej](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab07)
 - [Wygenerowane dane](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab07/data).
 - [Wygenerowane wykresy](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab07/plots/charts).
