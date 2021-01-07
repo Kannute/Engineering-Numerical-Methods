@@ -1,5 +1,5 @@
 # Inżynierskie Metody Numeryczne
-# Zadania z laboratorium
+### Zadania z laboratorium
 
 ## Rozwiązywanie równań różniczkowych
 
