@@ -9,14 +9,25 @@
 ### [Metody niejawne](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab02)
 - [Wygenerowane dane](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab02/data).
 - [Wygenerowane wykresy](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab02/plots/charts).
-### Problemy Sztywne
 
-## Równanie Poisson'a 
+### [Problemy Sztywne](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab03)
+- [Wygenerowane dane](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab03/data).
+- [Wygenerowane wykresy](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab03/plots/charts).
 
-### Relaksacja lokalna i globalna
+## Równanie Poisson'a
 
-### Relaksacja wielosiatkowa
+### [Relaksacja lokalna i globalna](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab04)
+- [Wygenerowane dane](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab04/data).
+- [Wygenerowane wykresy](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab04/plots/charts).
 
-### Rozwiązanie metodą algebraiczną
+### [Relaksacja wielosiatkowa](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab05)
+- [Wygenerowane dane](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab05/data).
+- [Wygenerowane wykresy](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab05/plots/charts).
 
-## Przepływy cieczy lepkiej - równania Naviera-Stokesa
+### [Rozwiązanie metodą algebraiczną](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab06)
+- [Wygenerowane dane](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab06/data).
+- [Wygenerowane wykresy](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab06/plots/charts).
+
+## [Przepływy cieczy lepkiej - równania Naviera-Stokesa](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab07)
+- [Wygenerowane dane](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab07/data).
+- [Wygenerowane wykresy](https://github.com/Kannute/Engineering-Numerical-Methods/tree/main/lab07/plots/charts).
